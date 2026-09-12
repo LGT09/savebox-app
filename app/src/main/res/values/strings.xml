@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SaveBox</string>
+    <string name="app_tagline">Legal Media Manager</string>
+    <string name="compliance_title">User Rights & Safety</string>
+    <string name="compliance_subtitle">SaveBox is designed for legal media downloads only. Please accept our terms to continue.</string>
+    <string name="compliance_content">SaveBox helps users save and manage media they have permission to download. Only download content you own, created yourself, or have authorization to save. Respect copyright laws and platform terms.\n\nWe are committed to protecting your privacy and ensuring platform compliance.</string>
+    <string name="compliance_agree">I understand and agree to the terms</string>
+    <string name="btn_continue">Continue</string>
+    <string name="paste_url_hint">Paste URL here...</string>
+    <string name="download">Download</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="supported_platforms">Supported Platforms</string>
+    <string name="settings">Settings</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="download_now">Download Now</string>
+    <string name="cancel">Cancel</string>
+</resources>
